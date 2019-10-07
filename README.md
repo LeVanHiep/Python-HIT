@@ -5,15 +5,15 @@
 
 ## Why Python?
   1. Python Is Popular
-Stack Overflow Programming Language Popularity Chart
+    Stack Overflow Programming Language Popularity Chart
 Image Credit: Stack Overflow
 Popularity may not seem a useful metric with which to measure value. Consider then, that in 2017 more people searched for Python than Kim Kardashian in America.
 
-To many of you, this will be a fairly inconsequential piece of trivia. It does, however, show a real change in interest in programming as a whole. Python first appeared in 1991, written as a successor to the ABC language. When creator Guido van Rossum was working on the language, he could have no idea that it would end up so remarkably popular.
+     To many of you, this will be a fairly inconsequential piece of trivia. It does, however, show a real change in interest in programming as a whole. Python first appeared in 1991, written as a successor to the ABC language. When creator Guido van Rossum was working on the language, he could have no idea that it would end up so remarkably popular.
 
-Its success cannot be put down merely to a growing interest in coding as a whole in recent years either. Last year, Stack Overflow analyzed data on the growth of programming languages based on traffic data from high-income countries. From this data, they state that “Python has a solid claim to being the fastest-growing major programming language.”
+    Its success cannot be put down merely to a growing interest in coding as a whole in recent years either. Last year, Stack Overflow analyzed data on the growth of programming languages based on traffic data from high-income countries. From this data, they state that “Python has a solid claim to being the fastest-growing major programming language.”
 
-Python has exploded in popularity in recent years, and according to these predictions, it shows no sign of stopping. By why this sudden surge in popularity? While there is no single reason, there are a few worth considering.
+    Python has exploded in popularity in recent years, and according to these predictions, it shows no sign of stopping. By why this sudden surge in popularity? While there is no single reason, there are a few worth considering.
 
 2. Big Name Companies Use Python
 Python is already used by some of the biggest names in tech, along with some less likely but equally-impressive users.
