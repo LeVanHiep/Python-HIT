@@ -5,6 +5,7 @@
 
 ## Why Python?
   1. Python Is Popular
+![Populary](Populary.png)
 -   Stack Overflow Programming Language Popularity Chart
 Image Credit: Stack Overflow
 Popularity may not seem a useful metric with which to measure value. Consider then, that in 2017 more people searched for Python than Kim Kardashian in America.
